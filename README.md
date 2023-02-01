@@ -7,6 +7,13 @@
 
 > Note Missing:
 
-> Routing tasks
+> Routing tasks (load balancing)
 
-> WAN & LAN tasks
+> WAN & LAN tasks(tunnel IKEv2, anyconnect vpn)
+
+
+## Special Thanks
+Yong En & Sze Yan for helping to contribute to the success and adventures of our cisco project.
+
+Mr Yang Yu for supporting us and sitting down with us to bug hunt cisco issues
+
