@@ -2,6 +2,8 @@
     <img src="WSSE.png" style="width: 50%; height: auto;" alt="wsse">
 </h1>
 
+Unrestricted and open to public as this answer is obselete
+
 # CML
 > Cisco Modelling labs configurations for the Worldskills 2022 Korea Special Edition round
 
@@ -25,5 +27,5 @@ This is a simulated office environment of networks done in cisco modeling labs. 
 ## Special Thanks
 Yong En & Sze Yan for helping to contribute to the success and adventures of our cisco project.
 
-Mr Yang Yu for supporting us and sitting down with us to bug hunt cisco issues
+Our coaches for helping us
 
